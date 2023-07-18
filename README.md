@@ -1,5 +1,5 @@
 # Marketwy
 
-E-commerce app for shopping a
+E-commerce app for shopping 
 
 
